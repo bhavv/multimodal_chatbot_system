@@ -1,0 +1,242 @@
+[
+  {
+    "id": "figure_1.1",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-1-1.jpg",
+    "caption": "Figure 1.1 Global trends in life expectancy and HALE at birth, by sex, 2000–2021",
+    "figure_number": "1.1",
+    "page": 1,
+    "block_id": "p1_b6"
+  },
+  {
+    "id": "figure_1.2",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-2-2.jpg",
+    "caption": "Figure 1.2 Trends in life expectancy and HALE at birth, by sex and by WHO region, 2000–2021",
+    "figure_number": "1.2",
+    "page": 2,
+    "block_id": "p2_b22"
+  },
+  {
+    "id": "figure_1.3",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-3-3.jpg",
+    "caption": "Figure 1.3 Trends in life expectancy and HALE at birth, by sex and World Bank income group, 2000–2021",
+    "figure_number": "1.3",
+    "page": 3,
+    "block_id": "p3_b26"
+  },
+  {
+    "id": "figure_1.4",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-4-4.jpg",
+    "caption": "Figure 1.4 Composition of causes of death, global, 2000–2021",
+    "figure_number": "1.4",
+    "page": 4,
+    "block_id": "p4_b50"
+  },
+  {
+    "id": "figure_1.5",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-5-5.jpg",
+    "caption": "Figure 1.5 Composition of causes of death, by WHO region, 2000–2021",
+    "figure_number": "1.5",
+    "page": 5,
+    "block_id": "p5_b66"
+  },
+  {
+    "id": "figure_1.6",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-6-6.jpg",
+    "caption": "Figure 1.6 Composition of causes of death, by World Bank income group, 2000–2021",
+    "figure_number": "1.6",
+    "page": 6,
+    "block_id": "p6_b73"
+  },
+  {
+    "id": "figure_1.7",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-7-7.jpg",
+    "caption": "Figure 1.7 Top 10 causes of death globally in 2000, 2019, 2020 and 2021",
+    "figure_number": "1.7",
+    "page": 7,
+    "block_id": "p7_b103"
+  },
+  {
+    "id": "figure_1.8",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-8-8.jpg",
+    "caption": "Figure 1.8 Top 10 causes of death, by WHO region, in 2000, 2019, 2020 and 2021",
+    "figure_number": "1.8",
+    "page": 8,
+    "block_id": "p8_b113"
+  },
+  {
+    "id": "figure_1.9",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-9-12.jpg",
+    "caption": "Figure 1.9 Top 10 causes of death, by World Bank income group, in 2000, 2019, 2020 and 2021",
+    "figure_number": "1.9",
+    "page": 9,
+    "block_id": "p9_b151"
+  },
+  {
+    "id": "figure_1.10",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-10-13.jpg",
+    "caption": "Figure 1.10 Global MMR stratified by five-year time period, 2000–2020",
+    "figure_number": "1.10",
+    "page": 10,
+    "block_id": "p10_b179"
+  },
+  {
+    "id": "figure_1.11",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-11-14.jpg",
+    "caption": "Figure 1.11 U5MR and NMR, globally and by WHO region, 2022",
+    "figure_number": "1.11",
+    "page": 11,
+    "block_id": "p11_b190"
+  },
+  {
+    "id": "figure_1.12",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-13-15.jpg",
+    "caption": "Figure 1.12 Global and regional trends in the mortality rates due to suicide and homicide, 2000–2021",
+    "figure_number": "1.12",
+    "page": 13,
+    "block_id": "p13_b234"
+  },
+  {
+    "id": "figure_1.13",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-15-16.jpg",
+    "caption": "Figure 1.13 Trends in the probability of dying between ages 30 and 69 years from one of the four major NCDs, globally, by WHO region and by World Bank income group, 2000–2019",
+    "figure_number": "1.13",
+    "page": 15,
+    "block_id": "p15_b271"
+  },
+  {
+    "id": "figure_2.1",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-19-17.jpg",
+    "caption": "Figure 2.1 Percentage change in the number of new HIV infections per 1000 uninfected population,a 2015–2022, and number of new HIV infections, 2022, globally and by WHO region",
+    "figure_number": "2.1",
+    "page": 19,
+    "block_id": "p19_b342"
+  },
+  {
+    "id": "figure_2.2",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-20-18.jpg",
+    "caption": "Figure 2.2 TB incidence rate by country and area, 2022",
+    "figure_number": "2.2",
+    "page": 20,
+    "block_id": "p20_b358"
+  },
+  {
+    "id": "figure_2.3",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-22-19.jpg",
+    "caption": "Figure 2.3 Coverage of immunization with RTS,S vaccine (first, third and fourth dose), pentavalent vaccine (third dose) and measles–rubella vaccine (first and second dose) in the MVIP areas in Ghana, Kenya and Malawi, 2020–2023",
+    "figure_number": "2.3",
+    "page": 22,
+    "block_id": "p22_b392"
+  },
+  {
+    "id": "figure_2.4",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-24-20.jpg",
+    "caption": "Figure 2.4 Number of new hepatitis B and hepatitis C infections, by WHO region, 2022",
+    "figure_number": "2.4",
+    "page": 24,
+    "block_id": "p24_b432"
+  },
+  {
+    "id": "figure_2.5",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-26-21.jpg",
+    "caption": "Figure 2.5 Global trend in the reported number of people requiring mass or individual treatment and care for",
+    "figure_number": "2.5",
+    "page": 26,
+    "block_id": "p26_b458"
+  },
+  {
+    "id": "figure_2.6",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-30-22.jpg",
+    "caption": "Figure 2.6 Age-standardized prevalence of tobacco use among persons aged 15 years and older, by sex, Netherlands (Kingdom of the) and the European Region, 2000–2025",
+    "figure_number": "2.6",
+    "page": 30,
+    "block_id": "p30_b564"
+  },
+  {
+    "id": "figure_2.7",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-32-23.jpg",
+    "caption": "Figure 2.7 Total alcohol per capita consumption among persons aged 15+ years, by sex, globally and by",
+    "figure_number": "2.7",
+    "page": 32,
+    "block_id": "p32_b608"
+  },
+  {
+    "id": "figure_2.8",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-34-24.jpg",
+    "caption": "Figure 2.8 Global age-standardized prevalence, treatment coverage and controlled hypertension among adults aged 30–79 years, by sex, 1990–2019",
+    "figure_number": "2.8",
+    "page": 34,
+    "block_id": "p34_b643"
+  },
+  {
+    "id": "figure_2.9",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-34-25.jpg",
+    "caption": "Figure 2.9 Percentage increase in the proportion of global population with access to WASH services, and the number of people who gained access, 2015–2022",
+    "figure_number": "2.9",
+    "page": 34,
+    "block_id": "p34_b647"
+  },
+  {
+    "id": "figure_2.10",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-36-26.jpg",
+    "caption": "Figure 2.10 Proportion of population with primary reliance on clean fuels and technologies for cooking (%), by urban–rural place of residence, globally and by WHO region, 2000–2022",
+    "figure_number": "2.10",
+    "page": 36,
+    "block_id": "p36_b703"
+  },
+  {
+    "id": "figure_2.11",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-38-27.jpg",
+    "caption": "Figure 2.11 Percentage change in adolescent birth rate, by age group, and the proportion of births among adolescent girls out of total births, globally and by WHO region, 2015–2023",
+    "figure_number": "2.11",
+    "page": 38,
+    "block_id": "p38_b733"
+  },
+  {
+    "id": "figure_2.12",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-39-28.jpg",
+    "caption": "Figure 2.12 UHC service coverage index, by country, 2021",
+    "figure_number": "2.12",
+    "page": 39,
+    "block_id": "p39_b758"
+  },
+  {
+    "id": "figure_2.13",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-41-29.jpg",
+    "caption": "Figure 2.13 Health worker density and distribution, by World Bank income group, 2010–2022 (median values)a",
+    "figure_number": "2.13",
+    "page": 41,
+    "block_id": "p41_b795"
+  },
+  {
+    "id": "figure_2.14",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-42-30.jpg",
+    "caption": "Figure 2.14 IHR capacity scores, by WHO region, 2023",
+    "figure_number": "2.14",
+    "page": 42,
+    "block_id": "p42_b813"
+  },
+  {
+    "id": "figure_2.15",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-44-31.jpg",
+    "caption": "Figure 2.15 SPAR scores by capacity in Kiribati, 2023",
+    "figure_number": "2.15",
+    "page": 44,
+    "block_id": "p44_b842"
+  },
+  {
+    "id": "figure_2.16",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-45-32.jpg",
+    "caption": "Figure 2.16 Proportion of total government spending on health (%), by World Bank income group, 2000–2021",
+    "figure_number": "2.16",
+    "page": 45,
+    "block_id": "p45_b878"
+  },
+  {
+    "id": "figure_2.17",
+    "img_path": "/content/drive/MyDrive/Lab2-hyp/pdf_outputs/images/figure-46-33.jpg",
+    "caption": "Figure 2.17 Proportion of the population with out-of-pocket health spending exceeding 10% or 25% of the",
+    "figure_number": "2.17",
+    "page": 46,
+    "block_id": "p46_b894"
+  }
+]
